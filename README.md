@@ -13,8 +13,8 @@ yolov3 :by using libdarknet.so; python3 and opencv3 ; video/img detect and save 
       
       yolov3.cfg
       
-      [yolov3.weights](https://pjreddie.com/darknet/yolo/ "https://pjreddie.com/darknet/yolo/")
-      ----
+      yolov3.weights [download](https://pjreddie.com/darknet/yolo/ "https://pjreddie.com/darknet/yolo/")
+     
       darknet.py
     
     
