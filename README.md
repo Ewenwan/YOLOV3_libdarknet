@@ -9,14 +9,14 @@ yolov3 :by using libdarknet.so; python3 and opencv3 ; video/img detect and save 
 >* coco.names
     
   ## detector:
-      * coco.data
+>* coco.data
       
-      * yolov3.cfg
+>* yolov3.cfg
       
-      * darknet.py
+>* darknet.py
       
-      * yolov3.weights 
-   [download weight file](https://pjreddie.com/darknet/yolo "https://pjreddie.com/darknet/yolo/")
+>* yolov3.weights 
+>[download weight file](https://pjreddie.com/darknet/yolo "https://pjreddie.com/darknet/yolo/")
      
       
     
