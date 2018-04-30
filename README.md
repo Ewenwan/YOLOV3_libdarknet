@@ -5,9 +5,13 @@ why?? upload error!!!
 
 folders: 
 -------
+
   data: 
+  
     ---- coco.names
+    
   detector:
+  
     ---- coco.data
     ---- yolov3.cfg
     ---- yolov3.weights
